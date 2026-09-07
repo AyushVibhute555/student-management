@@ -117,7 +117,7 @@ If I had more time, I would implement:
 ![List View](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/Student%20List%20with%20Pagination.png)
 
 ### 2. Create/Edit Form 
-![Create Form](./screenshots/create_edit_modal.png)
+![Create Form](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/New%20Student%20Form.png)
 
 ### 3. Validation Errors (Backend 400 mapped to UI)
 ![Validation Error](./screenshots/validation_error.png)
