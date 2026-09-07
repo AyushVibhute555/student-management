@@ -1,0 +1,21 @@
+# --- Python / Flask Backend ---
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+env/
+.env
+instance/
+.pytest_cache/
+*.db
+
+# --- Node / React Frontend ---
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
