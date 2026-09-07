@@ -114,7 +114,7 @@ If I had more time, I would implement:
 ## 📸 Screenshots
 
 ### 1. List View (with Pagination & Status Filter)
-![List View](./screenshots/list_with_filters.png)
+![List View](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/Student%20List%20with%20Pagination.png)
 
 ### 2. Create/Edit Form 
 ![Create Form](./screenshots/create_edit_modal.png)
