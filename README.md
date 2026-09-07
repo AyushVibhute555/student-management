@@ -120,8 +120,8 @@ If I had more time, I would implement:
 ![Create Form](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/New%20Student%20Form.png)
 
 ### 3. Validation Errors (Backend 400 mapped to UI)
-![Validation Error](./screenshots/validation_error.png)
+![Validation Error](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/Duplicate%20Error%20409.png)
 
 ### 4. Empty / Error State
-![Empty State](./screenshots/loading_or_error_state.png)
+![Empty State](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/Empty%20Error%20State.png)
 >>>>
