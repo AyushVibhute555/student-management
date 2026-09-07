@@ -124,4 +124,6 @@ If I had more time, I would implement:
 
 ### 4. Empty / Error State
 ![Empty State](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/Empty%20Error%20State.png)
+
+![Empty State](https://github.com/AyushVibhute555/student-management/blob/main/screenshots/Backend%20Logs.png)
 >>>>
